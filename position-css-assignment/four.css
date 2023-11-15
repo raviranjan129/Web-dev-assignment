@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    height:70px;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    align-items: center;
+    position:fixed;
+    width: 100%;
+}
+.logo{
+    color: white;
+  
+}
+.home{
+    color: white;
+   
+}
+.pricing,.contact,.condition{
+    color: grey;
+}
+.start{
+    color: goldenrod;
+    border: 1px solid gold;
+    height: 50px;
+    
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+
+

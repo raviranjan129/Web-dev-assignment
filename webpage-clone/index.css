@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+  height: 80px;
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+}
+.info{
+    display: flex;
+  
+}
+.info h5{
+    margin-left: 30px;
+    color: rgb(83, 75, 75);
+}
+.ipdc img{
+ height: 40px;
+}
+.left{
+    width: 50%;
+
+
+}
+.thought{
+    height: 200px;
+    width: 410px;
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size:30px ;
+    color: rgb(44, 42, 42);
+}
+.para{
+    height:100px ;
+    margin-left: 200px;
+    width: 300px;
+}
+.button{
+    margin-left: 200px;
+    display: flex;
+justify-content: space-between;
+width: 350px;
+}
+button{
+    height: 40px;
+    width: 170px;
+    
+}
+#apply{
+   background-color: rgb(243, 23, 60); 
+   color: white;
+   font-size: 20px;
+   border: none;
+   border-radius: 5px;
+}
+#loan-cal{
+    color: rgb(243, 23, 60) ;
+    border-color: rgb(243, 23, 60) ;
+}
+.car-loan{
+    display: flex;
+    width: 160px;
+    height: 40px;
+   z-index: 1;
+   margin-left: 93%;
+   align-items: center;
+background-color: rgb(247, 240, 240);
+
+padding: 30px; 
+border-radius: 20px;
+margin-top: 20px;
+}
+.car-loan h3{
+    margin-left: 5px;
+    color: rgb(106, 102, 102);
+}
+.footer{
+    display: flex;
+    height: 200px;
+    margin-top: 100px;
+    width: 150px;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+.right{
+    width: 50%;
+   
+   background-size:cover;
+   z-index: -1;
+   
+
+}
+.home-loan{
+    height: 40px; 
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -250px;
+    margin-left: 580px;
+    background-color: rgb(242, 237, 237);
+    border-radius: 10px;
+    z-index: 1;
+    color: rgb(108, 103, 103);
+}
+.bg-img{
+    margin-top: 80px;
+
+}
+.right img{
+    height: 400px;
+    width: 560px;
+    
+}
+.home-loan h3{
+    margin-left: 10px;
+}
+.main{
+    display: flex;
+}

@@ -1,0 +1,28 @@
+
+loops : -  loop is used to execute a group of instruction or a block of code multiple times ,without writing it repeatedly . 
+            The block of code is executed based on a certain condition.
+
+
+            Types of loops with syntax :-
+
+            1:for loop :
+           
+           for(initilization ; condition ; updation){
+            statements;
+           }
+
+            2:while loop 
+
+             while(condition){
+                statements;
+
+                updation;
+             }
+
+            3:do while loop 
+               
+               do{
+                statements;
+               }
+               while(condition);
+            

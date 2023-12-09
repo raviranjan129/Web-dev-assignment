@@ -1,0 +1,7 @@
+ 
+ conditional statements are used to make decisions based on the conditions. 
+
+ these are :-
+ if and else ;
+
+ first if statements will  executed ,if the condition will be false then else part will executed;
